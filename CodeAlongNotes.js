@@ -32,4 +32,5 @@ console.log("Come on" + favDino + favRobot + " we out!")
 const redline = readline.createInterface({
     input: process.stdin,
     output:process.stdout,
-    })
+
+})
